@@ -1,0 +1,10 @@
+{
+  "name": "Smart Logic Venture",
+  "short_name": "SLVenture",
+  "display": "fullscreen",
+  "orientation": "any",
+  "start_url": "/",
+  "background_color": "#0a1a2f",
+  "theme_color": "#0a1a2f",
+  "icons": []
+}
